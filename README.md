@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img align = "right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=14F775&background=00000016&multiline=true&width=319&height=200&lines=var+alive+%3D+true;while(alive)%7B;eat();sleep();code();alive+%3D+isStillAlive();%7D" alt="Typing SVG" />
 <h2 align="center">
   Welcome to Noor Serry's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
